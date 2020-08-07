@@ -6,6 +6,10 @@ Frutas:
 -Pera
 -Uvas
 -Sandía
+-Naranja
+-Arándano
+-Kiwi
+-Fresa
 Verduras:
 -Pepino
 -Zanahoria

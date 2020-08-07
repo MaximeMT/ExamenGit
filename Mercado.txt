@@ -1,0 +1,22 @@
+6 Frutas, Verduras y Vegetales
+Frutas:
+-Manzana
+-Mango
+-Durazno
+-Pera
+-Uvas
+-Sandía
+Verduras:
+-Pepino
+-Zanahoria
+-Calabaza
+-Lechuga
+-Cebolla
+-Papa
+Vegetales:
+-Maíz
+-Frijol
+-Chile
+-Aguacate
+-Nopal
+-Espinacas

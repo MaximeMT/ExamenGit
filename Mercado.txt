@@ -17,6 +17,10 @@ Verduras:
 -Lechuga
 -Cebolla
 -Papa
+-Tomate
+-Espárrago
+-Brocoli
+-Pimiento
 Vegetales:
 -Maíz
 -Frijol
@@ -24,3 +28,7 @@ Vegetales:
 -Aguacate
 -Nopal
 -Espinacas
+-Col
+-Calabacín
+-Berenjena
+-Patata dulce

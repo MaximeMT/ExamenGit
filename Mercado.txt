@@ -1,22 +1,33 @@
-6 Frutas, Verduras y Vegetales
 Frutas:
--Manzana
--Mango
--Durazno
--Pera
--Uvas
--Sandía
+1 Manzana
+2 Mango
+3 Durazno
+4 Pera
+5 Uvas
+6 Sandía
+7 Naranja
+8 Arándano
+9 Kiwi
+10 Fresa
 Verduras:
--Pepino
--Zanahoria
--Calabaza
--Lechuga
--Cebolla
--Papa
+11 Pepino
+12 Zanahoria
+13 Calabaza
+14 Lechuga
+15 Cebolla
+16 Papa
+17 Tomate
+18 Espárrago
+19 Brocoli
+20 Pimiento
 Vegetales:
--Maíz
--Frijol
--Chile
--Aguacate
--Nopal
--Espinacas
+21 Maíz
+22 Frijol
+23 Chile
+24 Aguacate
+25 Nopal
+26 Espinacas
+27 Col
+28 Calabacín
+29 Berenjena
+30 Patata dulce

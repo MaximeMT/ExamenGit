@@ -6,10 +6,6 @@ Frutas:
 -Pera
 -Uvas
 -Sandía
--Naranja
--Arándano
--Kiwi
--Fresa
 Verduras:
 -Pepino
 -Zanahoria
@@ -17,6 +13,10 @@ Verduras:
 -Lechuga
 -Cebolla
 -Papa
+-Tomate
+-Espárrago
+-Brocoli
+-Pimiento
 Vegetales:
 -Maíz
 -Frijol

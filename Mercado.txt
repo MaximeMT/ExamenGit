@@ -24,3 +24,7 @@ Vegetales:
 -Aguacate
 -Nopal
 -Espinacas
+-Col
+-Calabacín
+-Berenjena
+-Patata dulce
